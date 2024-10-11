@@ -1,7 +1,7 @@
 
 # MediaMover Pro
 
-![MediaMover ASCII Logo](https://postimg.cc/hhLRZBGd)  
+![MediaMover ASCII Logo](https://i.postimg.cc/T2S2w2MC/mediamover.png)  
 *Effortlessly transfer your photos and videos from one drive to another.*
 
 ## Table of Contents
